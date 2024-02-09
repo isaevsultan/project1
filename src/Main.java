@@ -10,7 +10,7 @@ public class Main {
    triangle.b = 7;
    triangle.c = 4;
 
-        System.out.println("a "+triangle.a+" \nb "+triangle.b+"\nc "+triangle.c);
+        System.out.println("a "+triangle.a+" \n b "+triangle.b+"\nc "+triangle.c);
 
 
 
